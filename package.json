@@ -1,0 +1,19 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "amandahp"
+  },
+  "author": "amanda",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.27.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
