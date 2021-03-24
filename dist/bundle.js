@@ -1,1 +1,1 @@
-console.log("Hello WebPack");
+(()=>{"use strict";const o=function(o){console.log(`Olá ${o}`)};console.log("Hello WebPack"),o("Matheus"),o("João"),o("Maria")})();
